@@ -1,5 +1,7 @@
-### Hello, I'm Elgini Neci 👋
-
+### Hello 👋
+ 
+  I'm Elgini Neci, I'm a Java back-end developers who is based in Madison Wisconsin. I'm a CS student at UW-Madison, I'm looking to expand my programming knowledge   by learning a lot more about python and all of the different technologies that come from it.
+  
 
 - 🔭 I’m currently studying computer science at the University of Wisconsin-Madison
 - 🌱 I’m currently learning more about java/python 
